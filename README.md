@@ -21,7 +21,7 @@ Link to repo: https://github.com/jonghoBae0218/E-commerce_Backend
 ## Tests
 
 Link to testing video:
-https://drive.google.com/file/d/1dVQ1OB98zjAdnUGlUmYKV-DOfO9s3YPF/view
+https://drive.google.com/file/d/13s2gaeS6W3ROyR94XF77VVVR0gSnKLzO/view?usp=sharing
 
 ## Questions
 
